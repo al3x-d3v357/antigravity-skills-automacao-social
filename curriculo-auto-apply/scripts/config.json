@@ -1,0 +1,176 @@
+{
+    "candidato":  {
+                      "nome_completo":  "Alex Sandro Arthur Silva Santos",
+                      "formacao":  "Ciência da Computação",
+                      "senioridade_alvo":  [
+                                               "Estágio",
+                                               "Trainee",
+                                               "Júnior"
+                                           ],
+                      "experiencia_atual":  "ONG One by One (rotinas analíticas, conferência, qualidade de dados e plataformas digitais)",
+                      "email":  "alex.sandro.dev@gmail.com",
+                      "telefone":  "+55 11 99999-9999",
+                      "cidade":  "São Paulo",
+                      "estado":  "SP",
+                      "pais":  "Brasil",
+                      "linkedin":  "https://www.linkedin.com/in/alex-sandro-arthur-silva-santos-pcd-79b4b5246/",
+                      "github":  "https://github.com/al3x-d3v357",
+                      "portfolio":  "https://github.com/al3x-d3v357",
+                      "eh_pcd":  true,
+                      "tipo_vaga_preferida":  "Afirmativa PcD (Pessoa com Deficiência) / Home Office",
+                      "modalidade_preferida":  "Home Office / Remoto",
+                      "pretensao_salarial":  "A combinar / Negociável",
+                      "disponibilidade":  "Imediata",
+                      "acessibilidade_necessaria":  "Atuação em regime Home Office (teletrabalho) com ambiente ergonômico e comunicação digital."
+                  },
+    "arquivos":  {
+                     "curriculo_padrao_pdf":  "/home/alex/.gemini/config/skills/curriculo-auto-apply/scripts/Currículo Editável (Página Dupla).pdf",
+                     "laudo_medico_pdf":  "/home/alex/.gemini/config/skills/curriculo-auto-apply/scripts/laudo_medico_alex.pdf",
+                     "historico_candidaturas_json":  "/home/alex/.gemini/config/skills/curriculo-auto-apply/scripts/applications_history.json",
+                     "historico_candidaturas_csv":  "/home/alex/.gemini/config/skills/curriculo-auto-apply/scripts/applications_history.csv"
+                 },
+    "frentes_estrategicas":  [
+                                 {
+                                     "frente":  "1. Foco Principal: Desenvolvimento Mobile \u0026 Software",
+                                     "descricao":  "Objetivo central com alta demanda de mercado (Kotlin + Jetpack Compose e portas de entrada em TI).",
+                                     "senioridades":  [
+                                                          "Estágio",
+                                                          "Trainee",
+                                                          "Júnior"
+                                                      ],
+                                     "cargos":  [
+                                                    "Desenvolvedor Android Júnior",
+                                                    "Estagiário Mobile",
+                                                    "Desenvolvedor Mobile Júnior",
+                                                    "Estagiário em Desenvolvimento de Software",
+                                                    "Trainee em Desenvolvimento de Software",
+                                                    "Desenvolvedor de Software Júnior"
+                                                ],
+                                     "tecnologias":  [
+                                                         "Kotlin",
+                                                         "Jetpack Compose",
+                                                         "Android Studio",
+                                                         "Java",
+                                                         "Git",
+                                                         "Arquitetura Android"
+                                                     ],
+                                     "queries_alertas":  [
+                                                             "\"Desenvolvedor Android\" AND (\"Kotlin\" OR \"Compose\")",
+                                                             "\"Desenvolvedor Mobile\" AND \"PcD\"",
+                                                             "\"Estágio Ciência da Computação\" AND \"Remoto\"",
+                                                             "Desenvolvedor Android Júnior",
+                                                             "Estágio Mobile Android",
+                                                             "Trainee Desenvolvimento de Software"
+                                                         ]
+                                 },
+                                 {
+                                     "frente":  "2. Oportunidades Intermediárias: Games \u0026 Front-End / UI",
+                                     "descricao":  "Diferencial visual e interativo em Unity 2D/3D, Blender, prototipação UI/UX e design de interfaces.",
+                                     "senioridades":  [
+                                                          "Estágio",
+                                                          "Júnior",
+                                                          "Assistente"
+                                                      ],
+                                     "cargos":  [
+                                                    "Desenvolvedor Unity Júnior",
+                                                    "Assistente de Game Dev",
+                                                    "Desenvolvedor Front-End Júnior",
+                                                    "UI/UX Designer Júnior",
+                                                    "Assistente de Design de Interfaces",
+                                                    "Desenvolvedor de Jogos"
+                                                ],
+                                     "tecnologias":  [
+                                                         "Unity",
+                                                         "C#",
+                                                         "Blender",
+                                                         "Adobe XD",
+                                                         "Photoshop",
+                                                         "Krita",
+                                                         "HTML/CSS/JavaScript",
+                                                         "UI/UX Wireframes"
+                                                     ],
+                                     "queries_alertas":  [
+                                                             "\"Unity\" AND (\"Junior\" OR \"Estágio\")",
+                                                             "Desenvolvedor Unity Júnior",
+                                                             "Assistente de Game Dev",
+                                                             "Desenvolvedor Front-End Júnior",
+                                                             "UI/UX Designer Júnior Remoto"
+                                                         ]
+                                 },
+                                 {
+                                     "frente":  "3. Transição Rápida: Dados, Operações \u0026 Suporte Técnico",
+                                     "descricao":  "Aproveitamento imediato da rotina com planilhas, qualidade de dados na ONG e validação de software (QA/Help Desk).",
+                                     "senioridades":  [
+                                                          "Júnior",
+                                                          "Assistente",
+                                                          "Analista N1/N2"
+                                                      ],
+                                     "cargos":  [
+                                                    "Assistente de Operações / Dados / BI Júnior",
+                                                    "Analista de Suporte Técnico (N1/N2)",
+                                                    "Help Desk Remoto",
+                                                    "Analista de QA Júnior",
+                                                    "Assistente de Quality Assurance (QA)"
+                                                ],
+                                     "tecnologias":  [
+                                                         "Excel / Planilhas Avançadas",
+                                                         "Higienização e Qualidade de Dados",
+                                                         "Testes Manuais de Software (QA)",
+                                                         "Atendimento e Suporte N1/N2",
+                                                         "Plataformas Digitais"
+                                                     ],
+                                     "queries_alertas":  [
+                                                             "\"QA\" OR \"Quality Assurance\"",
+                                                             "Assistente de QA Júnior",
+                                                             "Analista de Suporte Técnico Remoto",
+                                                             "Assistente de Operações e Dados",
+                                                             "Help Desk N1 Remoto"
+                                                         ]
+                                 }
+                             ],
+    "plataformas":  {
+                        "infojobs":  {
+                                         "nome":  "InfoJobs",
+                                         "habilitado":  true,
+                                         "login_url":  "https://www.infojobs.com.br/candidate/",
+                                         "vagas_url":  "https://www.infojobs.com.br/vagas-de-emprego.aspx",
+                                         "session_file":  "~/.job_sessions/session_infojobs.json"
+                                     },
+                        "linkedin":  {
+                                         "nome":  "LinkedIn",
+                                         "habilitado":  true,
+                                         "login_url":  "https://www.linkedin.com/login",
+                                         "session_file":  "~/.job_sessions/session_linkedin.json",
+                                         "filtro_padrao":  "Remoto"
+                                     },
+                        "inklua":  {
+                                       "nome":  "Inklua (Vagas PcD)",
+                                       "habilitado":  true,
+                                       "login_url":  "https://inklua.com/autenticacao/entrar",
+                                       "vagas_url":  "https://inklua.com/portal-de-vagas-pcd",
+                                       "session_file":  "~/.job_sessions/session_inklua.json",
+                                       "especializada_pcd":  true
+                                   },
+                        "pcd_online":  {
+                                           "nome":  "PCD Online",
+                                           "habilitado":  true,
+                                           "login_url":  "https://www.pcd.com.br/candidato",
+                                           "vagas_url":  "https://www.pcd.com.br/",
+                                           "session_file":  "~/.job_sessions/session_pcd_online.json",
+                                           "especializada_pcd":  true
+                                       },
+                        "gupy":  {
+                                     "nome":  "Gupy (Portal Corporativo)",
+                                     "habilitado":  true,
+                                     "login_url":  "https://login.gupy.io/",
+                                     "vagas_url":  "https://portal.gupy.io/",
+                                     "session_file":  "~/.job_sessions/session_gupy.json"
+                                 }
+                    },
+    "mensagens":  {
+                      "apresentacao_mobile":  "Olá! Sou Alex Sandro Arthur Silva Santos, graduando em Ciência da Computação com foco em desenvolvimento Mobile Android nativo (Kotlin e Jetpack Compose). Alio sólidos fundamentos de lógica de programação com boas práticas de arquitetura e interface de usuário. Possuo projetos práticos documentados no GitHub e busco oportunidades de Estágio / Trainee / Júnior em regime Home Office para agregar valor imediato ao time de engenharia.",
+                      "apresentacao_games_ui":  "Olá! Sou Alex Sandro Arthur Silva Santos, graduando em Ciência da Computação com perfil interdisciplinar focado em Unity, C#, modelagem 3D (Blender) e design de interfaces (UI/UX). Tenho facilidade em prototipar, criar experiências interativas e implementar fluxos visuais fluídos. Segue meu currículo e portfólio para verificação.",
+                      "apresentacao_operacoes_qa":  "Olá! Sou Alex Sandro Arthur Silva Santos, com formação em Ciência da Computação e experiência prática na ONG One by One com rotinas analíticas, qualidade e higienização de dados em planilhas e suporte a plataformas digitais. Tenho grande atenção a detalhes, facilidade com resolução de chamados e validação/testes manuais de software (QA).",
+                      "pitch_curto":  "Alex Sandro Arthur Silva Santos - Ciência da Computação. Foco em Mobile (Kotlin/Compose), Unity/Front-End e Rotinas Analíticas/QA. Disponível para atuação Remota / Home Office."
+                  }
+}

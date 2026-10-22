@@ -1,0 +1,15 @@
+{
+  "user": {
+    "handle": "@al3x_d3v357",
+    "name": "Alex Sandro"
+  },
+  "hashtags": {
+    "3d_showcase": "#b3d #blender3d #3Dart #3DModel #Anime3D #AI3D #CharacterDesign #3DArtist",
+    "gamedev": "#gamedev #indiedev #unity3d #madewithunity #indiegame",
+    "motion": "#motiongraphics #turntable360 #render #cgi"
+  },
+  "templates": {
+    "flat_vs_clay_showcase": "Estudo comparativo de renderização 3D e densidade de malha!\n\n🔹 Topo: Renderização Flat (Diffuse 1:1, cores nativas da IA)\n🔸 Base: Renderização Clay Shaded (Cavity Both)\n\nModelo: {character_name}\nIA Geradora: {ai_name} ({ai_url})\nPolígonos: {polys} | Vértices: {verts}\n\nFeito no Blender Workbench 5.2 LTS.",
+    "flat_angles_gallery": "Showcase de ângulos e silhueta em Renderização Flat (cor pura sem sombras)!\n\nPersonagem: {character_name}\nGerada nativamente via {ai_name}\n\nConfira os 5 ângulos em alta resolução!"
+  }
+}
